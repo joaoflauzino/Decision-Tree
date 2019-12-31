@@ -1,6 +1,6 @@
 # Logistic Regression
 
-The goal of this project is try to predict churn in a dataset of a telecommunication company. It was used Logistic Regression model.
+The goal of this project is try to predict who will survive in titanic dataset. It was used Logistic Regression model.
 
 # Language
 
